@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebView2", "ProgressBarApp\WebView2.csproj", "{1C61CE7B-B8E3-4EA3-B1E6-F0A602CF4A9A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Webview", "Webview\Webview.vdproj", "{A2B289F0-C45B-46BD-BA0B-CFCFA0C8EC97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C61CE7B-B8E3-4EA3-B1E6-F0A602CF4A9A}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{1C61CE7B-B8E3-4EA3-B1E6-F0A602CF4A9A}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{1C61CE7B-B8E3-4EA3-B1E6-F0A602CF4A9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C61CE7B-B8E3-4EA3-B1E6-F0A602CF4A9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2B289F0-C45B-46BD-BA0B-CFCFA0C8EC97}.Debug|Any CPU.ActiveCfg = Debug
+		{A2B289F0-C45B-46BD-BA0B-CFCFA0C8EC97}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4221446D-5D35-4446-B61D-2F98735E3FA0}
+	EndGlobalSection
+EndGlobal
